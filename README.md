@@ -58,10 +58,7 @@ This project is a Streamlit-based application for detecting helmets, bikes, and 
 # Sample Output video
     https://drive.google.com/file/d/1L4BRoO4WndLfTzfy4bOi-Oa7RpTWwOsU/view?usp=sharing
 
-# Acknowledgements
-* This project uses YOLOv3 for object detection. You can find more information about YOLOv3 here.
 
-      https://pjreddie.com/darknet/yolo/
   
 * The helmet detection model is a CNN-based model used for detecting helmets on bike riders.Number plate recognition is performed in real-time to identify and display number plates.
 * Special thanks to the Streamlit community for creating an easy-to-use web framework for data science applications. Visit Streamlit's official website for more information.
